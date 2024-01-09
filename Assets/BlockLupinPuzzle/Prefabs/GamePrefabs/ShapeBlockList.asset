@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6ca290b70dcbc148a9a17f9544e70c2, type: 3}
+  m_Name: ShapeBlockList
+  m_EditorClassIdentifier: 
+  ShapeBlocks:
+  - BlockID: 0
+    shapeBlock: {fileID: 1561065657387102, guid: 2f906e2bcf5b8614c9e4a63c22f7f981, type: 3}
+    spawnProbability: 1
+  - BlockID: 1
+    shapeBlock: {fileID: 1010243961825246, guid: f7bcc8f7d418aa04e9d195a61373c703, type: 3}
+    spawnProbability: 1
+  - BlockID: 2
+    shapeBlock: {fileID: 1701273378565990, guid: a3d7360afa7b8524588e080a202956dd, type: 3}
+    spawnProbability: 1
+  - BlockID: 3
+    shapeBlock: {fileID: 1835239184810644, guid: 7808014ad510e7c41bc4460a965b1fdb, type: 3}
+    spawnProbability: 1
+  - BlockID: 4
+    shapeBlock: {fileID: 1327983622121420, guid: c744ee1dcc1a33444bd9406d2dbece94, type: 3}
+    spawnProbability: 1
+  - BlockID: 5
+    shapeBlock: {fileID: 1327983622121420, guid: 52054630603211c458cb55144a382ade, type: 3}
+    spawnProbability: 1
+  - BlockID: 6
+    shapeBlock: {fileID: 1327983622121420, guid: 4ec31fb06d7b2ef47bdfdbefe86c978e, type: 3}
+    spawnProbability: 1
+  - BlockID: 7
+    shapeBlock: {fileID: 1561065657387102, guid: fcab57491c9dda24b96a5d79b0b371dd, type: 3}
+    spawnProbability: 1
+  - BlockID: 8
+    shapeBlock: {fileID: 1561065657387102, guid: a2f87d074ef17944b92ccef1d803a050, type: 3}
+    spawnProbability: 1
+  - BlockID: 9
+    shapeBlock: {fileID: 1561065657387102, guid: 86010cc4ab58adf4397d06124f95d13a, type: 3}
+    spawnProbability: 1
+  - BlockID: 10
+    shapeBlock: {fileID: 1371705531683594, guid: 89ae2da84be0b804fb2138abb3a914e4, type: 3}
+    spawnProbability: 1
+  - BlockID: 11
+    shapeBlock: {fileID: 1555100378851348, guid: 255bb841a07d5e94b978fd8d580bb496, type: 3}
+    spawnProbability: 1
+  - BlockID: 12
+    shapeBlock: {fileID: 1065050409816296, guid: 16e0440d4e21c334dbd437469f0c146e, type: 3}
+    spawnProbability: 1
+  - BlockID: 13
+    shapeBlock: {fileID: 1080190706230682, guid: 649792481d481b4499e3b9e1cd0191d3, type: 3}
+    spawnProbability: 1
+  - BlockID: 14
+    shapeBlock: {fileID: 1722961272382440, guid: 3915a1082dbab534d8574ae27490060d, type: 3}
+    spawnProbability: 1
+  - BlockID: 15
+    shapeBlock: {fileID: 1331820463314378, guid: dd88571b24e855c4e920d70937d8c986, type: 3}
+    spawnProbability: 1
+  - BlockID: 16
+    shapeBlock: {fileID: 1356026999756038, guid: 9d95438a4cd156e4fb23fa40e72ccbd6, type: 3}
+    spawnProbability: 1
+  - BlockID: 17
+    shapeBlock: {fileID: 1196606960115760, guid: ff35712bec68ebe4481de33256ceffbd, type: 3}
+    spawnProbability: 1
+  - BlockID: 18
+    shapeBlock: {fileID: 1848114577987914, guid: 62ddaafb6ce4cfc41856751d1db48a11, type: 3}
+    spawnProbability: 1
+  - BlockID: 19
+    shapeBlock: {fileID: 1848114577987914, guid: 3d2add552cc47364eb94503397e77ce1, type: 3}
+    spawnProbability: 1
+  - BlockID: 20
+    shapeBlock: {fileID: 1848114577987914, guid: 4964a9b09ecb4d3489b65cfb7709869a, type: 3}
+    spawnProbability: 1
+  - BlockID: 21
+    shapeBlock: {fileID: 1848114577987914, guid: f2f2aa968645f14408c405bcb83b4fef, type: 3}
+    spawnProbability: 1
+  - BlockID: 22
+    shapeBlock: {fileID: 1848114577987914, guid: fd17906230c564340ba7d0d021ce0a42, type: 3}
+    spawnProbability: 1
